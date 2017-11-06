@@ -1,0 +1,169 @@
+--Standard monodromy 
+Starting monodromy loop number: 1.
+Number of solutions found: 1.
+Starting monodromy loop number: 2.
+Number of solutions found: 2.
+Starting monodromy loop number: 3.
+Number of solutions found: 4.
+Starting monodromy loop number: 4.
+Number of solutions found: 4.
+Starting monodromy loop number: 5.
+Number of solutions found: 4.
+Starting monodromy loop number: 6.
+Number of solutions found: 4.
+Starting monodromy loop number: 7.
+Number of solutions found: 4.
+Starting monodromy loop number: 8.
+Number of solutions found: 4.
+Starting monodromy loop number: 9.
+Number of solutions found: 5.
+Starting monodromy loop number: 10.
+Number of solutions found: 7.
+Starting monodromy loop number: 11.
+Number of solutions found: 9.
+Starting monodromy loop number: 12.
+Number of solutions found: 10.
+Starting monodromy loop number: 13.
+Number of solutions found: 12.
+Starting monodromy loop number: 14.
+Number of solutions found: 23.
+Starting monodromy loop number: 15.
+Number of solutions found: 45.
+Starting monodromy loop number: 16.
+Number of solutions found: 53.
+Starting monodromy loop number: 17.
+Number of solutions found: 67.
+Starting monodromy loop number: 18.
+Number of solutions found: 85.
+Starting monodromy loop number: 19.
+Number of solutions found: 86.
+Starting monodromy loop number: 20.
+Number of solutions found: 91.
+Starting monodromy loop number: 21.
+Number of solutions found: 110.
+Starting monodromy loop number: 22.
+Number of solutions found: 124.
+Starting monodromy loop number: 23.
+Number of solutions found: 165.
+Starting monodromy loop number: 24.
+Number of solutions found: 194.
+Starting monodromy loop number: 25.
+Number of solutions found: 219.
+Starting monodromy loop number: 26.
+Number of solutions found: 236.
+Starting monodromy loop number: 27.
+Number of solutions found: 394.
+Starting monodromy loop number: 28.
+Number of solutions found: 452.
+Starting monodromy loop number: 29.
+Number of solutions found: 474.
+Starting monodromy loop number: 30.
+Number of solutions found: 638.
+Starting monodromy loop number: 31.
+Number of solutions found: 664.
+Starting monodromy loop number: 32.
+Number of solutions found: 669.
+Starting monodromy loop number: 33.
+Number of solutions found: 674.
+Starting monodromy loop number: 34.
+Number of solutions found: 675.
+Starting monodromy loop number: 35.
+Number of solutions found: 814.
+Starting monodromy loop number: 36.
+Number of solutions found: 814.
+Starting monodromy loop number: 37.
+Number of solutions found: 814.
+Starting monodromy loop number: 38.
+Number of solutions found: 819.
+Starting monodromy loop number: 39.
+Number of solutions found: 819.
+Starting monodromy loop number: 40.
+Number of solutions found: 859.
+Starting monodromy loop number: 41.
+Number of solutions found: 862.
+Starting monodromy loop number: 42.
+Number of solutions found: 862.
+Starting monodromy loop number: 43.
+Number of solutions found: 862.
+Starting monodromy loop number: 44.
+Number of solutions found: 890.
+Starting monodromy loop number: 45.
+Number of solutions found: 898.
+Starting monodromy loop number: 46.
+Number of solutions found: 898.
+Starting monodromy loop number: 47.
+Number of solutions found: 898.
+Starting monodromy loop number: 48.
+Number of solutions found: 898.
+Starting monodromy loop number: 49.
+Number of solutions found: 898.
+Starting monodromy loop number: 50.
+Number of solutions found: 898.
+Starting monodromy loop number: 51.
+Number of solutions found: 911.
+Starting monodromy loop number: 52.
+Number of solutions found: 911.
+Starting monodromy loop number: 53.
+Number of solutions found: 911.
+Starting monodromy loop number: 54.
+Number of solutions found: 911.
+Starting monodromy loop number: 55.
+Number of solutions found: 911.
+Starting monodromy loop number: 56.
+Number of solutions found: 911.
+Starting monodromy loop number: 57.
+Number of solutions found: 911.
+Starting monodromy loop number: 58.
+Number of solutions found: 911.
+Starting monodromy loop number: 59.
+Number of solutions found: 911.
+Starting monodromy loop number: 60.
+Number of solutions found: 911.
+Starting monodromy loop number: 61.
+Number of solutions found: 924.
+Number of loops: 61.
+NumSolBound has been reached.
+     -- 702.235 seconds elapsed
+
+--Symmetric monodromy
+Starting monodromy loop number: 1.
+Current fiber size: 2
+Starting monodromy loop number: 2.
+Current fiber size: 2
+Starting monodromy loop number: 3.
+Current fiber size: 2
+Starting monodromy loop number: 4.
+Current fiber size: 4
+Starting monodromy loop number: 5.
+Current fiber size: 6
+Starting monodromy loop number: 6.
+Current fiber size: 11
+Starting monodromy loop number: 7.
+Current fiber size: 20
+Starting monodromy loop number: 8.
+Current fiber size: 23
+Starting monodromy loop number: 9.
+Current fiber size: 34
+Starting monodromy loop number: 10.
+Current fiber size: 47
+Starting monodromy loop number: 11.
+Current fiber size: 50
+Starting monodromy loop number: 12.
+Current fiber size: 52
+Starting monodromy loop number: 13.
+Current fiber size: 53
+Starting monodromy loop number: 14.
+Current fiber size: 62
+Starting monodromy loop number: 15.
+Current fiber size: 62
+Starting monodromy loop number: 16.
+Current fiber size: 62
+Starting monodromy loop number: 17.
+Current fiber size: 64
+Starting monodromy loop number: 18.
+Current fiber size: 64
+Starting monodromy loop number: 19.
+Current fiber size: 66
+Number of loops: 19.
+NumSolBound has been reached.
+     -- 23.3899 seconds elapsed
